@@ -1,0 +1,7 @@
+TinyLAP is a Lighttpd+Adminer+PHP web server distribution. TinyLAP aims to be more simply, easy configure and good damn lightweight.
+
+What is in the distribution 
+-Web server: Lighttpd 1.4.29
+-Database management UI: Adminer 3.3.3
+-(Database is optional)
+-Script language: PHP CGI 5.3.8
